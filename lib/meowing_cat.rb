@@ -3,4 +3,4 @@ class Cat
   def meow (cat_sound)
     puts "meow!"
   end
-end 
+end
